@@ -1,0 +1,12 @@
+📁 gann-crypto-scanner/
+├── 📄 package.json (from first artifact)
+├── 📄 next.config.js (from first artifact)
+├── 📄 tailwind.config.js (from first artifact)
+├── 📄 postcss.config.js (from first artifact)
+├── 📄 .gitignore (from first artifact)
+├── 📄 README.md (from first artifact)
+├── 📄 vercel.json (from first artifact)
+├── 📁 app/
+│   ├── 📄 page.js (from second artifact - main app)
+│   ├── 📄 layout.js (from third artifact)
+│   └── 📄 globals.css (from third artifact)
